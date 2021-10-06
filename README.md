@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in machine learning, network automation, Django, Python in general and optical networks. 
+- 👀 I’m interested in Python applied to machine learning, network automation and web development
 - 🌱 I’m currently learning machine learning, network automation, Django
-- 💞️ I’m looking to collaborate on anything Python related
+- 💞️ I’m looking to collaborate on Python related projects
 - 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/alexandru-m-popa-26baa4207/)
 
 <!---
